@@ -16,5 +16,6 @@ Apasionado por la ciencia de datos.
 
 ![Django](https://img.shields.io/badge/Django-%20?style=plastic&logo=django&logoColor=white&colorA=092E20&colorB=2BA977) ![React](https://img.shields.io/badge/React-%20?style=plastic&logo=react&logoColor=white&colorA=20232A&colorB=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%20?style=plastic&logo=nodedotjs&logoColor=white&colorA=339933&colorB=222222) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%20?style=plastic&logo=tailwindcss&logoColor=white&colorA=0EA5E9&colorB=38BDF8)  
 
+#
 
  [![CAIEC](icons/artificial-intelligence-expert-certificate-caiec.1.png)](https://www.credly.com/badges/e3c11424-ba81-4827-ac03-d4922104e0f3/public_url) [![DSTPC](icons/data-storytelling-professional-certification-dstpc.1.png)](https://www.credly.com/badges/d10ac42d-65de-4dfe-ae6e-d3428947aa38/public_url)[![AWS Cloud Foundations](icons/aws-academy-graduate-cloud-foundations-training-bad.png)](https://www.credly.com/badges/7c57a057-3013-4586-a43c-304f05356d61/public_url) 
